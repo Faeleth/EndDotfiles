@@ -1,1 +1,1 @@
-# EndDotfiles for EndeavorOS
+# EndDotfiles for EndeavorOS distro
