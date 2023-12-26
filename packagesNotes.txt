@@ -1,3 +1,7 @@
 neofetch
 git-credential-manager-core
 pass
+nvidia-dkms
+nvidia-utils
+swaylock-effects-git
+
